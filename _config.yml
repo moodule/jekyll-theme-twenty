@@ -25,9 +25,10 @@ pinterest_url: https://github.com/moodule
 slack_url: https://github.com/moodule
 twitter_url: https://github.com/moodule
 
-# Legal
-legal_terms: /legal
-privacy_policy: /privacy
+# Optional elements
+logo_url: /assets/images/logo.svg
+legal_terms_url: /legal-terms
+privacy_policy_url: /privacy-policy
 
 # Collections
 collections:
